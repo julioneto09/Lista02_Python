@@ -5,7 +5,7 @@ a. Quantas vezes o número 5 foi digitado;
 b. Qual a posição do número 3;
 c. Quantos números pares e ímpares foram digitados, informe quais foram.
 '''
-#Tá feito usando lista. Descobrir como adicionar itens numa tupla
+
 
 numero = 10
 q = [1,2,3,4,5,6,7,8,9,10]
